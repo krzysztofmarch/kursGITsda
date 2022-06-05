@@ -1,1 +1,3 @@
 Zmiana w pliku.
+
+Dodanie nowej zawartosci sprawdzanie funkcji
